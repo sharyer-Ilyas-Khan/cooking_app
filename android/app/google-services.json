@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994077160040",
+    "project_id": "cookapp-d305c",
+    "storage_bucket": "cookapp-d305c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994077160040:android:5016738a3f383b7f8701dd",
+        "android_client_info": {
+          "package_name": "com.db.cooking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994077160040-8822bkpvkb6ad5lafa02dnvognq1r8dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoAFZHykSIVM24m835yd6ha_dMubVnnXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994077160040-8822bkpvkb6ad5lafa02dnvognq1r8dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
